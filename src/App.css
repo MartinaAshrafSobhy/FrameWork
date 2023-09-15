@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+.nav-color{
+  background-color: #2C3E50;
+}
+
+.nav-link{
+  color: #fff !important;
+}
+
+.crcl{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+
+.bgColor{
+  background-color: #1ABC9C;
+}
+
+.line{
+  height: 4px;
+  width: 80px;
+}
+
+.formBg{
+  background-color: #1abc9c;
+}
