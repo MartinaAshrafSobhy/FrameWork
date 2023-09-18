@@ -1,0 +1,23 @@
+[33mcommit 3e67b5d66ee7fee3825418e1073875b672caca78[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MartinaAshrafSobhy <martina.ashraf14@gmail.com>
+Date:   Fri Sep 15 18:11:08 2023 +0200
+
+    initial commit
+
+[33mcommit e2a9a708ccdb135f5ba5cfb4f1f8d325b1d4f0bf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MartinaAshrafSobhy <martina.ashraf14@gmail.com>
+Date:   Fri Sep 15 18:02:02 2023 +0200
+
+    sec commit
+
+[33mcommit 11cf118389ca05ba4b6834b81c3981015ef19ae4[m
+Author: MartinaAshrafSobhy <martina.ashraf14@gmail.com>
+Date:   Fri Sep 15 17:37:30 2023 +0200
+
+    framework
+
+[33mcommit 2c0d0141851fd82628f118175eb26d1f671f6913[m
+Author: MartinaAshrafSobhy <martina.ashraf14@gmail.com>
+Date:   Wed Sep 13 12:50:09 2023 +0200
+
+    Initialize project using Create React App
